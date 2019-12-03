@@ -2,6 +2,14 @@
 
 > The missing WebView in SwiftUI
 
+## Download
+
+- File -> Swift Packages -> Add Package Dependency...
+- Select your project
+- Enter `https://github.com/kenmueller/WebView` for the package repository URL
+- Select **Branch**: master
+- Click **Finish**
+
 ## Parameters
 
 - `html: String`
